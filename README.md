@@ -1,6 +1,6 @@
                                                                            HEY DUDE 🕶
 
-![me](https://www.aprendemas.com/mx/blog/images/2016/10/computacion.jpg)
+<p align="center">![me](https://www.aprendemas.com/mx/blog/images/2016/10/computacion.jpg)<p/>
 
 👋 Hi, I’m @WillyRLV
 - 👀 I’m interested in ...
