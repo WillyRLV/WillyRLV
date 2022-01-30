@@ -1,4 +1,4 @@
-## HEY DUDE 🕶
+                                                                           HEY DUDE 🕶
 
 ![me](https://www.aprendemas.com/mx/blog/images/2016/10/computacion.jpg)
 
