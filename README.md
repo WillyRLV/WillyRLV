@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://c.tenor.com/H_loBGkJiMYAAAAd/code-daddycoolcool.gif" align="center" style="width: 100%" />
+<img src="https://www.paradigmadigital.com/wp-content/uploads/2016/04/Cover-Image.png" align="center" style="width: 100%" />
 </div>  
   
 
