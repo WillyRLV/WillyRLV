@@ -6,7 +6,7 @@
 ### <div align="center"> 👨‍💻Full-Steck Devoloper jr.🚀</div>  
   
 
-- 🔭 Estudio ingeniería de sistemas   
+- 🔭 Estudiante ingeniería de sistemas   
   
 
 - 🌱 Estudio desarrollo web Full Stack en TECSUP  
