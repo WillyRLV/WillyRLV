@@ -9,10 +9,10 @@
 - 🔭 Estudiante ingeniería de sistemas   
   
 
-- 🌱 Estudio desarrollo web Full Stack en TECSUP  
+- 🌱 Estudios realizados sobre desarrollo web Full Stack en TECSUP  
   
 
-- ❓ realizo proyecto mediante metodología SCRUM  
+- ❓ realizo proyectos mediante metodología SCRUM  
   
 
 <br/>  
