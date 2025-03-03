@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center"> 👨‍💻Full-Stack Developer jr.🚀</div>  
+### <div align="center"> 👨‍💻Full-Stack Developer🚀</div>  
   
 
 - 🔭 Estudiante ingeniería de sistemas   
